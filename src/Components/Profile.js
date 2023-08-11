@@ -9,6 +9,7 @@ const Profile=()=>{
           <div className="profile-text">
             <h2>Hello, I'm Gokulanandan </h2>
             <p>Passionate about creating elegant web experiences.</p>
+            <p>this is new</p>
 
             
           </div>
